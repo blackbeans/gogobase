@@ -1,13 +1,14 @@
-package goh
+package gogohbase
 
 import (
 	"container/list"
 	"context"
 	"errors"
-	"github.com/blackbeans/log4go"
 	"net"
 	"sync"
 	"time"
+
+	"github.com/blackbeans/log4go"
 
 	"git.apache.org/thrift.git/lib/go/thrift"
 )

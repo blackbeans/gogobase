@@ -3,12 +3,12 @@
 
  */
 
-package goh
+package gogohbase
 
 import (
 	"fmt"
 
-	"git.uneed.com/server/unicom/hadoop/goh/proto"
+	"github.com/blackbeans/gogobase/proto"
 )
 
 //type Text []byte

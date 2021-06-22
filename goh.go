@@ -3,11 +3,12 @@
 
  */
 
-package goh
+package gogohbase
 
 import (
 	"errors"
 	"fmt"
+
 	"git.apache.org/thrift.git/lib/go/thrift" // will replace it later
 )
 

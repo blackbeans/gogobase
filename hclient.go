@@ -1,8 +1,8 @@
-package goh
+package gogohbase
 
 import (
 	"git.apache.org/thrift.git/lib/go/thrift"
-	"git.uneed.com/server/unicom/hadoop/goh/proto"
+	"github.com/blackbeans/gogobase/proto"
 
 	"net/url"
 	//"thrift"

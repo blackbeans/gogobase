@@ -3,11 +3,11 @@
 
  */
 
-package goh
+package gogohbase
 
 import (
 	"bytes"
-	"git.uneed.com/server/unicom/hadoop/goh/proto"
+	"github.com/blackbeans/gogobase/proto"
 )
 
 /*
